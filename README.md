@@ -12,17 +12,22 @@
   <a href="https://leetcode.com/sukhseerat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
-
 <br>
 
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on FrontEnd Projects
-
+I'm a pre-final year undergraduate student majoring in Computer Science with an interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
+<br>
+<br>
+<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="250px" width="400px">
 
 <br>
+<br>
+- 🔭 I’m currently working on ReactJS <br>
+- 🌱 I’m currently learning MERN stack <br>
+- 👯 I’m looking to collaborate on Frontend Projects <br>
 
+
+<br> <br>
+<br><br>
 
 ## Languages, Technologies And Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,9 +47,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukhseerat-Kaur&theme=midnight-purple&count_private=true&show_icons=true">
-</p> -->
 
 <br>
 
@@ -53,10 +55,7 @@
 <img height="300px" width="450px" src="https://github-readme-stats.vercel.app/api?username=Sukhseerat-Kaur&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
 <img align="right" height="300px" width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=Sukhseerat-Kaur&theme=midnight-purple&hide_border=true">
 </p>
-
-<!--![](http://github-readme-streak-stats.herokuapp.com?user=Sukhseerat-Kaur&theme=material-palenight) -->
-
-<a href="https://github.com/Sukhseerat-Kaur/github-readme-activity-graph"><img alt="Sukhseerat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhseerat-Kaur&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF" /></a>
+<a href="https://github.com/Sukhseerat-Kaur/github-readme-activity-graph"><img alt="Sukhseerat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhseerat-Kaur&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
 
 
 

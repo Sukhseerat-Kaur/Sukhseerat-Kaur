@@ -52,8 +52,8 @@ I'm a pre-final year undergraduate student majoring in Computer Science with an 
 
 ## 🏆 Github Stats
 <p align="left">
-<img height="300px" width="450px" src="https://github-readme-stats.vercel.app/api?username=Sukhseerat-Kaur&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
-<img align="right" height="300px" width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=Sukhseerat-Kaur&theme=midnight-purple&hide_border=true">
+<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Sukhseerat-Kaur&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
+<img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Sukhseerat-Kaur&theme=midnight-purple&hide_border=true">
 </p>
 <a href="https://github.com/Sukhseerat-Kaur/github-readme-activity-graph"><img alt="Sukhseerat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhseerat-Kaur&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
 

@@ -48,6 +48,11 @@ I'm a pre-final year undergraduate student majoring in Computer Science with an 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <br>
+<h2>😄 Have Fun </h2>
+<br>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
+</p>
 
 ## 🏆 Github Stats
 <p align="left">

@@ -26,7 +26,7 @@ I'm a pre-final year undergraduate student majoring in Computer Science with an 
 - 👯 I’m looking to collaborate on Frontend Projects <br>
 - 📫 How to reach me: sukhseeratkaur26@gmail.com <br>
 
-<br> 
+<br> <br>
 
 ## 🛠 Languages, Technologies And Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

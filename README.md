@@ -19,16 +19,14 @@ I'm a pre-final year undergraduate student majoring in Computer Science with an 
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
-<br>
-<br>
+
+
 - 🔭 I’m currently working on ReactJS <br>
 - 🌱 I’m currently learning MERN stack <br>
 - 👯 I’m looking to collaborate on Frontend Projects <br>
-- - 📫 How to reach me: sukhseeratkaur26@gmail.com <br>
+- 📫 How to reach me: sukhseeratkaur26@gmail.com <br>
 
-
-<br> <br>
-<br><br>
+<br> 
 
 ## Languages, Technologies And Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

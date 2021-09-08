@@ -20,7 +20,6 @@ I'm a pre-final year undergraduate student majoring in Computer Science with an 
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
-
 - 🔭 I’m currently working on ReactJS <br>
 - 🌱 I’m currently learning MERN stack <br>
 - 👯 I’m looking to collaborate on Frontend Projects <br>
